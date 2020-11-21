@@ -1,1 +1,1 @@
-FROM yurt-tunnel-server:latest
+FROM openyurt/yurt-tunnel-server:latest

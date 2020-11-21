@@ -1,1 +1,1 @@
-FROM yurtctl-servant:latest
+FROM openyurt/yurtctl-servant:latest

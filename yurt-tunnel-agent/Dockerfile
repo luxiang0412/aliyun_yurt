@@ -1,1 +1,1 @@
-FROM yurt-tunnel-agent:latest
+FROM openyurt/yurt-tunnel-agent:latest
