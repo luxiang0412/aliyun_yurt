@@ -1,0 +1,1 @@
+FROM yurt-tunnel-agent:latest

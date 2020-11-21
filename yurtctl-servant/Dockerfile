@@ -1,0 +1,1 @@
+FROM yurtctl-servant:latest

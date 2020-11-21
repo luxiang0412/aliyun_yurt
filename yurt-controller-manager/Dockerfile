@@ -1,0 +1,1 @@
+FROM openyurt/yurt-controller-manager:latest
